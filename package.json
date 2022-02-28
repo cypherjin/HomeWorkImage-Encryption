@@ -11,6 +11,7 @@
   },
   "private": true,
   "dependencies": {
+    "-": "^0.0.1",
     "@angular/animations": "~7.2.0",
     "@angular/common": "~7.2.0",
     "@angular/compiler": "~7.2.0",
@@ -23,6 +24,7 @@
     "bootstrap": "^4.3.1",
     "core-js": "^2.5.4",
     "downloadjs": "^1.4.7",
+    "g": "^2.0.1",
     "jquery": "^3.5.0",
     "node-sass": "6.0.1",
     "rxjs": "~6.3.3",
